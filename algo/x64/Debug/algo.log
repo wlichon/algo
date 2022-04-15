@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  Tree.cpp
+  main.cpp
+  Code wird generiert...
+C:\Dev\algo\algo\Node.h(141): warning C4715: "Node::isSub": Nicht alle Codepfade geben einen Wert zurück.
   algo.vcxproj -> C:\Dev\algo\x64\Debug\algo.exe
